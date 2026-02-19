@@ -1,6 +1,8 @@
 # Variables and Built-in Functions
 
 """
+print("Day 2 of Python Practice")
+
 print("print text")                         # print("x"), prints text/values
 print(len('text length'))                   # len('x'), length of text,values
 print(type('what type'))                    # type('x'), shows data type

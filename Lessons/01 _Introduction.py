@@ -20,3 +20,11 @@ print(type({'name': 'Lyduke'}))         # dictionary data type, key value pairs 
 print(type([1, 2, 3, 6, 7]))            # list data type, ordered, changeable, duplicates
 print(type({2, 3 ,6}))                  # set data type, unordered, changeable, no duplicates
 print(type((1, 1, 3, 5, 2)))            # tuple data type, ordered, unchangeable, duplicates
+
+# This is a comment
+
+"""
+This is a 
+multiple-line
+comment
+"""
