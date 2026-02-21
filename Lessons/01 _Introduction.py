@@ -1,5 +1,6 @@
-# Introduction
 # Day 1 of 30
+# Introduction
+
 print("Day 1 of Python Practice")
 
 # Basic Mathematical Operations
